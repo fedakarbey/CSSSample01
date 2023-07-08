@@ -72,7 +72,9 @@
     <Content Include="Images\2.png" />
     <Content Include="Images\3.png" />
     <Content Include="Images\bardak.jpg" />
+    <Content Include="Images\deneme.png" />
     <Content Include="Images\welcome.png" />
+    <Content Include="MyCSS\custom.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
